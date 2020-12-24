@@ -8,6 +8,7 @@
                 <value id="zoho" type="host">*.zoho.com</value>
                 <value id="zohopublic" type="host">*.zohopublic.com</value>
                 <value id="zohocdn" type="host">*.zohocdn.com</value>
+                <value id="zohocdnwss" type="host">wss://vts.zohopublic.com</value>
             </values>
         </policy>
         <policy id="script-src">
@@ -33,6 +34,10 @@
         <policy id="img-src">
             <values>
                 <value id="data" type="host">data:</value>
+                <value id="magentocommerce" type="host">*.magentocommerce.com</value>
+                <value id="zohocdn" type="host">*.zohocdn.com</value>
+                <value id="zohocdnpublic" type="host">*.zohopublic.com</value>
+
             </values>
         </policy>
         <policy id="style-src">
@@ -43,12 +48,8 @@
         </policy>
         <policy id="font-src">
             <values>
-                <value id="zohocdn" type="host">*.zohocdn.com</value>
-            </values>
-        </policy>
-        <policy id="unsafe-inline">
-            <values>
-                <value id="zohocdn" type="host">*.zohocdn.com</value>
+                <value id="fontawesome" type="host">*.zohocdn.com</value>
+                <value id="zohofonts" type="host">*.gstatic.com</value>
             </values>
         </policy>
     </policies>
