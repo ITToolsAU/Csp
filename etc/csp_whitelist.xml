@@ -46,7 +46,7 @@
                 <value id="zohocdn" type="host">*.zohocdn.com</value>
             </values>
         </policy>
-        <policy id="unsave-inline">
+        <policy id="unsafe-inline">
             <values>
                 <value id="zohocdn" type="host">*.zohocdn.com</value>
             </values>
