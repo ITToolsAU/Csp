@@ -5,6 +5,7 @@
             <values>
                 <value id="google-analytics.com" type="host">*.google-analytics.com</value>
                 <value id="paypal.com" type="host">*.paypal.com</value>
+                <value id="paypalobjects.com" type="host">*.paypalobjects.com</value>
                 <value id="zoho" type="host">*.zoho.com</value>
                 <value id="zohopublic" type="host">*.zohopublic.com</value>
                 <value id="zohocdn" type="host">*.zohocdn.com</value>
@@ -15,6 +16,7 @@
             <values>
                 <value id="google-analytics.com" type="host">*.google-analytics.com</value>
                 <value id="paypal.com" type="host">*.paypal.com</value>
+                <value id="paypalobjects.com" type="host">*.paypalobjects.com</value>
                 <value id="zoho" type="host">*.zoho.com</value>
                 <value id="zohopublic" type="host">*.zohopublic.com</value>
                 <value id="zohocdn" type="host">*.zohocdn.com</value>
@@ -26,6 +28,7 @@
             <values>
                 <value id="google-analytics.com" type="host">*.google-analytics.com</value>
                 <value id="paypal.com" type="host">*.paypal.com</value>
+                <value id="paypalobjects.com" type="host">*.paypalobjects.com</value>
                 <value id="zoho" type="host">*.zoho.com</value>
                 <value id="zohopublic" type="host">*.zohopublic.com</value>
                 <value id="zohocdn" type="host">*.zohocdn.com</value>
